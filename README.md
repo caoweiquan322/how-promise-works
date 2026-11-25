@@ -1,4 +1,4 @@
-# How Javascript Promise works
+# 手搓代码解读Javascript Promise工作机制
 
 Here I implemented MyPromise class to mimic javascript built-in Promise.
 
